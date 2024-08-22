@@ -1,2 +1,2 @@
 # ML-Project
-Predictive Modeling of Water portability using ML algorithms
+This project explores the potential for enhancing water quality monitoring through advanced predictive models. By analyzing environmental and water data, the project aims to deliver more accurate and timely predictions of water quality changes. These insights will enable better decision-making and more efficient management of water resources, ultimately contributing to improved sustainability and public health outcomes. The project’s findings are expected to provide valuable tools for water resource managers, ensuring proactive responses to potential issues and promoting long-term water quality improvement.
